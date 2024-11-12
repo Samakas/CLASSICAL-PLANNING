@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+## Name: Samakash R S
+## Register No: 212223230182
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
